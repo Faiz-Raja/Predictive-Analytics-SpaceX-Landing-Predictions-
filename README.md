@@ -1,4 +1,4 @@
-# Predictive-Analytics-SpaceX-Landing-Predictions-
+# Predictive-Analytics-SpaceX-Landing-Predictions
 This is a project based on the predictions of the landing of SpaceX flights whether it will land successfully or not using the past data and making predictions based on the various insights.
 
 ## 📌 Overview
@@ -150,4 +150,4 @@ Confusion Matrix showed excellent recall and high precision with only 3 false po
 * `pandas`, `numpy`, `plotly`, `dash`, `sklearn`, `folium`, `requests`, `beautifulsoup4`
 
 ## 📄 In Order To Get The Full Insights (PDF)
-Click on this link to download PDF: 
+Click on this link to download PDF: (https://drive.google.com/file/d/19Mes0HVh7uQQaod9mk9BqdEG-MNKMNwr/view?usp=sharing)
